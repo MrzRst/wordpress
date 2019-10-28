@@ -1,2 +1,2 @@
-docker-compose -f installation.yml up
- http://ip:8090/
+docker-compose -f docker-compose.yml up
+ http://ip:8010/
